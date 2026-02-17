@@ -1,0 +1,10 @@
+{
+  "type": "InkScape extension",
+  "short_description": "Une extension Inkscape pour supprimer les segments de ligne dupliqués avec une option de tolérance pour détecter les segments comme identiques.",
+  "subject": "découpe laser",
+  "author": "Ellen Wasbø",
+  "version": "2026.1",
+  "download": ["removeDuplicateLines/"],
+  "default_install_dir": "FrankSAURET",
+  "compatibility": ["Inkscape >= 1.2.0"]
+}
