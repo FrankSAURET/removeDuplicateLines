@@ -1,18 +1,25 @@
 # removeDuplicateLines
 -----
-For inkscape V 1.x
+Pour Inkscape V 1.x
 -----
-An Inkscape extension to remove duplicate line segments with an option to add a tolerance for regarding the segments as a match.
+Une extension Inkscape pour supprimer les segments de ligne dupliqués avec une option de tolérance pour considérer les segments comme identiques.
 
-C'est une copie traduite de l'extension d'Ellen Wasbø (original extension here -->): https://gitlab.com/EllenWasbo/inkscape-extension-removeduplicatelines
+C'est une copie traduite de l'extension d'Ellen Wasbø (extension originale ici -->): https://gitlab.com/EllenWasbo/inkscape-extension-removeduplicatelines
 
-Usage
+Utilisation
 -----
 
-Copy the .inx and .py files in to your Inkscape extensions directory (usually on windows C:\Users\username\AppData\Roaming\inkscape\extensions or %appdata%\inkscape\extensions). 
-The actual directory can be found under Preferences/System.
+Copiez le dossier removeDuplicateLines dans le dossier des extensions d'Inkscape (généralement sous Windows : %appdata%\inkscape\extensions).
+Le dossier exact peut être trouvé dans Préférences/Système.
 
-Restart inkscape.
+> ⚡ **Astuce pratique :**
+>
+> Cette extension peut être installée et mise à jour automatiquement grâce à l'extension **Màj** :
+> **Extensions > Mise à jour des extensions de Frank SAURET...**
+>
+> Téléchargez Màj ici : [https://github.com/FrankSAURET/Maj](https://github.com/FrankSAURET/Maj)
 
-The optimisation will be available under "Extensions > Découpe Laser > Supprimer les lignes en double ...".
+Redémarrez Inkscape.
+
+L'optimisation sera disponible sous "Extensions > Découpe Laser > Supprimer les lignes en double ...".
 
